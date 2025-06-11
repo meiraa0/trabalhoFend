@@ -40,7 +40,7 @@ src/
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/meiraa0/sistema-denuncias-ambientais.git
+git clone https://github.com/meiraa0/trabalhoFend
 cd sistema-denuncias-ambientais
 ```
 
